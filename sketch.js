@@ -6,5 +6,6 @@ function draw(){
     mostraAtor();
     mostraCarro();
     movimentaCarro();
+    movimentaAtor();
 }
 
