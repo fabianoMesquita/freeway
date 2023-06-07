@@ -7,5 +7,6 @@ function draw(){
     mostraCarro();
     movimentaCarro();
     movimentaAtor();
+    voltaPosicaoInicialCarro();
 }
 
