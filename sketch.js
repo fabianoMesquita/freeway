@@ -8,5 +8,6 @@ function draw(){
     movimentaCarro();
     movimentaAtor();
     voltaPosicaoInicialCarro();
+    verificaColisao();
 }
 
